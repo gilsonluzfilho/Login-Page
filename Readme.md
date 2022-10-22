@@ -1,8 +1,7 @@
 <h1 align="center">Página de Login</h1>
-### Página de login responsiva com uma paleta de cores dark
+
+### Página de login responsiva com paleta de cores Dark.
 
 Tecnologias:<br>
 [x] HTML<br>
-[] CSS 🎨<br><br>
-
-> :construction: Projeto em construção :construction:
+[x] CSS 🎨<br><br>
